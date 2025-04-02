@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "./bin/index.js",
   "bin": {
-    "n-serve": "./bin/index.js"
+    "nserve": "./bin/index.js"
   },
   "keywords": [
     "static",
