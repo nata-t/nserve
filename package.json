@@ -1,0 +1,25 @@
+{
+  "name": "nserve",
+  "version": "1.0.0",
+  "main": "./bin/index.js",
+  "bin": {
+    "n-serve": "./bin/index.js"
+  },
+  "keywords": [
+    "static",
+    "server",
+    "pm2",
+    "cli"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "A simple CLI tool to serve static files with PM2 background support",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "cli-table3": "^0.6.0",
+    "commander": "^13.1.0",
+    "express": "^5.1.0",
+    "pm2": "^6.0.5"
+  }
+}
