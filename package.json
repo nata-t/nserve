@@ -1,9 +1,9 @@
 {
-  "name": "nserve",
+  "name": "nserve-cli",
   "version": "1.0.0",
   "main": "./bin/index.js",
   "bin": {
-    "nserve": "./bin/index.js"
+    "nserve": "bin/index.js"
   },
   "keywords": [
     "static",
