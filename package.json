@@ -15,6 +15,7 @@
   "license": "ISC",
   "type": "module",
   "description": "A simple CLI tool to serve static files with PM2 background support",
+  "repository": "https://github.com/nata-t/nserve.git",
   "dependencies": {
     "chalk": "^5.4.1",
     "cli-table3": "^0.6.0",
